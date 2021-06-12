@@ -1,2 +1,1 @@
-# hivepress-my-something
-A sample HivePress extension.
+This is a sample HivePress extension. You can use it to create your own extension for HivePress (by replacing "my" with a unique prefix and "something" with the extension purpose), or just check its code to get familiar with the HivePress extension API. We also use this extension as an example in our video tutorials for developers [published on YouTube](https://www.youtube.com/c/HivePress).
